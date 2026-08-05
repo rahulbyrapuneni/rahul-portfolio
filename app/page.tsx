@@ -106,7 +106,7 @@ export default function Home() {
               <a className="hover:text-white" href="https://github.com/rahulbyrapuneni" target="_blank">
                 GitHub ↗
               </a>
-              <a className="hover:text-white" href="https://www.linkedin.com/" target="_blank">
+              <a className="hover:text-white" href="https://www.linkedin.com/in/rahul-byrapuneni-1138782a9/" target="_blank">
                 LinkedIn ↗
               </a>
               <a
