@@ -2,6 +2,10 @@
 
 A modern portfolio built with Next.js, TypeScript, Tailwind CSS, and Motion.
 
+# Portfolio Link
+
+https://rahul-portfolio-phi-azure.vercel.app/
+
 ## Run locally
 
 Install Node.js, then run:
@@ -10,22 +14,6 @@ Install Node.js, then run:
 npm install
 npm run dev
 ```
-
-Open:
-
-```text
-http://localhost:3000
-```
-
-## Important update before publishing
-
-In `app/page.tsx`, replace the placeholder LinkedIn URL:
-
-```text
-https://www.linkedin.com/
-```
-
-with your exact LinkedIn profile URL.
 
 ## Deploy to Vercel
 
