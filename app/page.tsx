@@ -231,12 +231,6 @@ export default function Home() {
               data pipelines, AI applications, and reliable analytical systems.
             </p>
 
-            <p className="mt-4 max-w-2xl text-base leading-7 text-[var(--muted)]">
-              My experience spans behavioral health analytics, data integration, 
-              Snowflake, healthcare reporting, data quality,
-              and AI-assisted analytics.
-            </p>
-
             <div className="mt-9 flex flex-wrap gap-3">
               <a
                 href="#projects"
