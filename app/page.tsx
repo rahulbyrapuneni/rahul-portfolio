@@ -24,7 +24,7 @@ const experience = [
     company: "SICL - America",
     location: "Lebanon, NH",
     points: [
-      "Designed ETL pipelines to extract structured and unstructured data from Epic and Cerner EHR systems.",
+      "Designed ETL pipelines to extract structured and unstructured data from EHR systems.",
       "Authored optimized SQL queries that reduced data extraction time by 15%.",
       "Processed 50,000+ HL7/XML files annually to support quality reporting and operational analytics.",
       "Improved data quality by 25% through validation rules, transformation logic, and standardized data structures.",
@@ -232,8 +232,8 @@ export default function Home() {
             </p>
 
             <p className="mt-4 max-w-2xl text-base leading-7 text-[var(--muted)]">
-              My experience spans behavioral health analytics, Epic and Cerner
-              data integration, Snowflake, healthcare reporting, data quality,
+              My experience spans behavioral health analytics, data integration, 
+              Snowflake, healthcare reporting, data quality,
               and AI-assisted analytics.
             </p>
 
