@@ -217,16 +217,16 @@ export default function Home() {
         <div className="relative mx-auto grid min-h-[calc(100vh-7rem)] max-w-7xl items-center gap-16 px-5 py-16 md:px-8 lg:grid-cols-[1.15fr_.85fr]">
           <Reveal>
             <p className="section-label text-xs font-semibold text-blue-300">
-              HEALTHCARE DATA · ANALYTICS · ENGINEERING · AI
+              DATA · ANALYTICS · ENGINEERING · AI
             </p>
 
             <h1 className="mt-6 max-w-5xl text-5xl font-semibold leading-[.98] tracking-[-.055em] sm:text-7xl lg:text-[5.3rem]">
-              Turning complex healthcare data into{" "}
+              Turning complex data into{" "}
               <span className="text-gradient">trusted decisions.</span>
             </h1>
 
             <p className="mt-8 max-w-2xl text-lg leading-8 text-[var(--muted)]">
-              I&apos;m Rahul Byrapuneni, a healthcare data and analytics
+              I&apos;m Rahul Byrapuneni, a data and analytics
               professional building Power BI solutions, SQL-driven reporting,
               data pipelines, AI applications, and reliable analytical systems.
             </p>
