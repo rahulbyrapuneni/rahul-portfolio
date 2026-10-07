@@ -49,8 +49,11 @@ body {
 
 .text-gradient {
   background: linear-gradient(120deg, #ffffff 10%, #9ec1ff 54%, #bba8ff 100%);
+  background-clip: text;
   -webkit-background-clip: text;
+
   color: transparent;
+  -webkit-text-fill-color: transparent;
 }
 
 .accent-line {

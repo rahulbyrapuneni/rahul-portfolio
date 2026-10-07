@@ -5,7 +5,7 @@ import { motion, useReducedMotion } from "motion/react";
 const nodes = [
   { label: "SQL", x: "10%", y: "24%" },
   { label: "Python", x: "68%", y: "12%" },
-  { label: "Fabric", x: "78%", y: "62%" },
+  { label: "Snowflake", x: "78%", y: "62%" },
   { label: "Power BI", x: "14%", y: "72%" },
 ];
 
